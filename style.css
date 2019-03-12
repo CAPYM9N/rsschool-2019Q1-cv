@@ -22,12 +22,11 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-   
-    padding-top: 8px;
+    padding:16px 0;
 }
 .nav a{
     font-family: 'Lato', sans-serif;
-    font-size: 10px;
+    font-size: 12px;
     color: #ffffff;
     line-height: 0;
     text-decoration: none;
@@ -45,6 +44,28 @@ h2{
     margin-bottom: 16px;
     background-color: #f8f8f8;
 }
+.inf p {
+    padding: 15px 30px;
+}
+.inf span {
+    padding-left: 30px;
+}
 .information{
+    margin-bottom: 16px;
+}
+.skills{
+    margin-left: 15px;
+}
+.bottom{
+    width: 100%;
+    display: inline-block;
+
+    background:#222;
+}
+.copy{
+ 
+    font-size: 12px;
+    color:#9b9797;
+    margin:16px 0px 16px 39px;
     
 }
