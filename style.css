@@ -41,6 +41,7 @@ h2{
     
 }
 .inf{
+    display: flex;
     margin-bottom: 16px;
     background-color: #f8f8f8;
 }
@@ -50,11 +51,21 @@ h2{
 .inf span {
     padding-left: 30px;
 }
+.image{
+    margin: 4px 0 0 305px;
+}
 .information{
     margin-bottom: 16px;
 }
 .skills{
     margin-left: 15px;
+}
+.code{
+    margin-bottom: 16px;
+    background-color: #f8f8f8;   
+}
+.code p{
+    padding: 15px 30px;   
 }
 .bottom{
     width: 100%;
